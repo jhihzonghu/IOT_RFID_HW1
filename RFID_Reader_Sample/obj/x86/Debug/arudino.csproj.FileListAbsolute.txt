@@ -1,0 +1,2 @@
+C:\Users\ECLab\Desktop\LABA\RFID_Reader_Sample\bin\Debug\ConsoleApplication.exe.config
+C:\Users\ECLab\Desktop\LABA\RFID_Reader_Sample\obj\x86\Debug\arudino.csprojResolveAssemblyReference.cache

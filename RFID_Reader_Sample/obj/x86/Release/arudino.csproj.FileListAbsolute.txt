@@ -1,0 +1,1 @@
+C:\Users\ECLab\Desktop\LABA\RFID_Reader_Sample\bin\Release\ConsoleApplication.exe.config
